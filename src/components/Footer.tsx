@@ -27,7 +27,7 @@ export default function Footer() {
         </div>
         
         <div className={styles.socials}>
-          <a href="https://linkedin.com/in/sumairgulzar" target="_blank" rel="noopener noreferrer" className={styles.socialLink}>
+          <a href="https://linkedin.com/in/sumair-sheikh-276222227" target="_blank" rel="noopener noreferrer" className={styles.socialLink}>
             <LinkedinIcon />
           </a>
           <a href="#" className={styles.socialLink}>
